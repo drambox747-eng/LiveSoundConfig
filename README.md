@@ -1,0 +1,2 @@
+# LiveSoundConfig
+LiveSound server configuration
